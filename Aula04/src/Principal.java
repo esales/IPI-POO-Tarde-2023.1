@@ -9,5 +9,7 @@ public class Principal {
 		veiculo1.numeroRodas = 4;
 		
 		System.out.println( veiculo1.numeroRodas );
+		
+		
 	}
 }
